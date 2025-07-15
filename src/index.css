@@ -1,0 +1,11 @@
+/* Poppins font for SkillSprint logo text */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+.skill-sprint-logo-text {
+  font-family: "Poppins", Arial, Helvetica, sans-serif !important;
+  color: #2563eb !important; /* Tailwind blue-600 */
+  letter-spacing: 0.5px;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
